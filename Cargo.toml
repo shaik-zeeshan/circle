@@ -1,0 +1,13 @@
+[workspace]
+resolver = "2"
+members = [
+    "crates/*",
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+authors = ["shaik-zeeshan <shaikzeeshan999@gmail.com>"]
+license = "MIT"
+repository = "https://github.com/shaik-zeeshan/circle"
+homepage = "https://github.com/shaik-zeeshan/circle"
